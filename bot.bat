@@ -1,0 +1,2 @@
+python shinonome.py
+pause
